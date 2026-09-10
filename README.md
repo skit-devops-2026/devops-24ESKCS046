@@ -4,7 +4,7 @@
 
 | Roll No.   | Name         | GitHub username    |
 | ---------- | ------------ | ------------------ |
-| 24ESKCS051 | Ankit Sharma | ankit-sharma-cyber |
+| 24ESKCS046 | Anirudh Jangid | anirudhjangid16 |
 
 ## About
 
