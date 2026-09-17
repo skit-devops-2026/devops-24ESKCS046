@@ -2,9 +2,9 @@ name: Zenith CI
 
 on:
   push:
-    branches:
-      - main
-      - feature/testing
+  branches:
+    - main
+    - "feature/**"
   pull_request:
     branches:
       - main
