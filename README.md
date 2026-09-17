@@ -25,3 +25,13 @@ more convenient and accessible.
 
 ```bash
 make install
+
+## Testing
+
+The project uses the Node.js built-in test runner.
+
+Run the automated tests with:
+
+```text
+node --test tests/script.test.js
+node --test tests/frontend-files.test.js
