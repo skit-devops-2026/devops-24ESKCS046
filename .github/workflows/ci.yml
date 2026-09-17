@@ -1,10 +1,10 @@
-name: Zenith CI
+﻿name: Zenith CI
 
 on:
   push:
-  branches:
-    - main
-    - "feature/**"
+    branches:
+      - main
+      - "feature/**"
   pull_request:
     branches:
       - main
