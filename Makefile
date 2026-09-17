@@ -4,7 +4,7 @@ install:
 	@echo "No external dependencies required"
 
 test:
-	node --test tests/script.test.js
+	node --test tests/script.test.js tests/frontend-files.test.js
 
 build:
 	@echo "Static frontend - no build step required"
